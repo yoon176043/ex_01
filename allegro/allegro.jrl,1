@@ -1,0 +1,965 @@
+\t (00:00:03) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Jul 10 21:45:44 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=2040 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ex2_rlc
+\d (00:00:03) Design opened: C:/Users/user/Desktop/work/orcad/ex2_rlc/allegro/ex2_rlc.brd
+\t (00:00:03) Grids are drawn 32.512, 32.512 apart for enhanced viewability.
+\t (00:00:03) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:00:03) trapsize 821
+\i (00:00:04) trapsize 845
+\i (00:00:04) trapsize 821
+\t (00:00:04) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:00:04) trapsize 821
+\i (00:00:04) trapsize 674
+\i (00:00:04) trapsize 821
+\i (00:00:04) trapsize 840
+\i (00:00:04) trapsize 686
+\i (00:00:04) generaledit 
+\i (00:00:05) trapsize 1003
+\i (00:00:59) pick grid 73.009 60.281
+\t (00:00:59) last pick:  73.025 60.325
+\i (00:01:18) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:01:19) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ex2_rlc
+\i (00:01:59) pick grid 89.264 54.662
+\t (00:01:59) last pick:  89.281 54.610
+\i (00:01:59) pick grid 56.956 37.004
+\t (00:01:59) last pick:  56.896 36.957
+\i (00:02:00) pick grid 116.153 34.997
+\t (00:02:00) last pick:  116.205 35.052
+\i (00:11:40) pick grid 86.454 -2.327
+\t (00:11:40) last pick:  86.487 -2.286
+\i (00:11:41) pick grid -22.107 32.388
+\t (00:11:41) last pick:  -22.098 32.385
+\i (00:11:45) delete 
+\i (00:11:46) pick grid 10.200 32.187
+\t (00:11:46) last pick:  10.160 32.131
+\t (00:11:46) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:11:46) pick grid 10.401 32.187
+\t (00:11:46) last pick:  10.414 32.131
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in 55.752 19.345
+\t (00:11:48) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:11:48) trapsize 502
+\i (00:11:49) zoom out 1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) zoom out 66.287 20.148
+\t (00:11:49) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:11:49) trapsize 1003
+\i (00:25:20) zcopy shape 
+\t (00:25:20) Select cline, cline segment, shape, rectangle or closed polygon.
+   (00:25:20) Loading cmds.cxt 
+\i (00:25:36) trapsize 1002
+\i (00:25:36) trapsize 1201
+\i (00:25:36) trapsize 1267
+\i (00:25:36) trapsize 1265
+\i (00:25:36) trapsize 1264
+\i (00:25:37) trapsize 1267
+\t (00:25:37) Grids are drawn 2.032, 2.032 apart for enhanced viewability.
+\i (00:25:37) trapsize 1306
+\i (00:25:37) trapsize 1365
+\i (00:25:37) trapsize 1397
+\i (00:25:37) trapsize 1403
+\i (00:25:37) trapsize 1458
+\i (00:25:37) trapsize 1538
+\i (00:25:38) trapsize 1535
+\i (00:25:38) trapsize 1542
+\i (00:25:38) trapsize 1563
+\i (00:25:38) trapsize 1554
+\i (00:25:38) trapsize 1551
+\i (00:25:38) trapsize 1549
+\i (00:25:38) trapsize 1535
+\i (00:25:38) trapsize 1533
+\i (00:26:03) setwindow form.mini
+\i (00:26:03) FORM mini dynamic_shape YES 
+\i (00:26:09) FORM mini offset 0.001 
+\i (00:26:18) setwindow pcb
+\i (00:26:18) zoom in 1 
+\i (00:26:18) setwindow pcb
+\i (00:26:18) zoom in 58.543 25.475
+\t (00:26:18) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:26:18) trapsize 767
+\i (00:26:18) zoom in 1 
+\i (00:26:18) setwindow pcb
+\i (00:26:18) zoom in 58.543 25.475
+\t (00:26:18) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:26:18) trapsize 383
+\i (00:26:29) pick 56.857 24.786
+\t (00:26:29) last pick:  56.857 24.786
+\t (00:26:29) No Element Found.
+\i (00:26:42) shape select 
+\i (00:26:45) setwindow form.mini
+\i (00:26:45) FORM mini dyns_netname_list  
+\i (00:26:47) fillin "Gnd"
+\t (00:26:47) Assigning selected shape to net: GND
+\i (00:27:08) setwindow pcb
+\i (00:27:08) pick grid 56.397 21.106
+\t (00:27:08) last pick:  56.388 21.082
+\i (00:27:09) zoom out 1 
+\i (00:27:09) setwindow pcb
+\i (00:27:09) zoom out 54.480 25.169
+\t (00:27:09) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:27:09) trapsize 767
+\i (00:27:09) zoom out 1 
+\i (00:27:09) setwindow pcb
+\i (00:27:09) zoom out 53.714 24.862
+\t (00:27:09) Grids are drawn 2.032, 2.032 apart for enhanced viewability.
+\i (00:27:09) trapsize 1533
+\i (00:27:12) pick grid 3.735 43.260
+\t (00:27:12) last pick:  3.683 43.307
+\t (00:27:12) Grids are drawn 1.270, 1.270 apart for enhanced viewability.
+\i (00:27:13) zoom in 1 
+\i (00:27:13) setwindow pcb
+\i (00:27:13) zoom in 6.801 35.901
+\i (00:27:13) trapsize 767
+\i (00:27:13) zoom in 1 
+\i (00:27:13) setwindow pcb
+\i (00:27:13) zoom in 6.648 35.901
+\i (00:27:13) trapsize 383
+\i (00:27:13) zoom out 1 
+\i (00:27:13) setwindow pcb
+\i (00:27:13) zoom out 7.108 37.511
+\i (00:27:13) trapsize 767
+\i (00:27:15) zoom in 1 
+\i (00:27:15) setwindow pcb
+\i (00:27:15) zoom in 8.641 33.525
+\i (00:27:15) trapsize 383
+\i (00:27:15) pick grid 9.025 33.142
+\t (00:27:15) last pick:  8.890 33.020
+\w (00:27:15) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:27:16) drag_start grid 7.798 39.197
+\i (00:27:16) drag_stop grid 11.708 30.995
+\i (00:27:18) drag_start grid 4.042 45.637
+\i (00:27:19) drag_stop grid 33.248 16.814
+\i (00:27:20) pick grid 2.662 33.065
+\t (00:27:20) last pick:  2.540 33.020
+\t (00:27:20) last pick:  3.000 33.065
+\i (00:27:24) pick grid 2.892 30.612
+\t (00:27:24) last pick:  3.175 30.480
+\e (00:27:24) ERROR(SPMHGE-471): Vertex forms an illegal shape, select again.
+\i (00:27:27) setwindow form.mini
+\i (00:27:27) FORM mini subcolor 0 
+\i (00:27:27) FORM mini subcolor 1 
+\i (00:27:30) FORM mini class PACKAGE KEEPOUT 
+\i (00:27:34) setwindow pcb
+\i (00:27:34) pick grid 3.276 36.898
+\t (00:27:34) last pick:  3.175 36.830
+\t (00:27:34) last pick:  3.000 36.898
+\i (00:27:34) pick grid 3.276 36.898
+\t (00:27:34) last pick:  3.175 36.830
+\e (00:27:34) ERROR(SPMHGE-471): Vertex forms an illegal shape, select again.
+\i (00:27:35) pick grid 2.586 36.744
+\t (00:27:35) last pick:  2.540 36.830
+\w (00:27:35) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:27:36) drag_start grid 2.816 36.744
+\t (00:27:36) last pick:  3.000 36.744
+\i (00:27:36) drag_stop grid 5.959 36.744
+\t (00:27:36) No DRC errors detected.
+\i (00:27:37) drag_start grid 5.959 36.744
+\t (00:27:37) last pick:  5.715 36.744
+\i (00:27:37) drag_stop grid 5.345 34.981
+\t (00:27:37) No DRC errors detected.
+\i (00:27:38) drag_start grid 5.192 34.981
+\t (00:27:38) last pick:  5.080 34.981
+\i (00:27:39) drag_stop grid 3.199 35.365
+\t (00:27:39) No DRC errors detected.
+\i (00:27:40) pick grid 7.415 35.518
+\t (00:27:40) last pick:  7.620 35.560
+\w (00:27:40) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:27:41) zoom out 1 
+\i (00:27:41) setwindow pcb
+\i (00:27:41) zoom out 10.788 36.438
+\i (00:27:41) trapsize 767
+\i (00:28:07) trapsize 343
+\i (00:28:08) zoom in 1 
+\i (00:28:08) setwindow pcb
+\i (00:28:08) zoom in 34.226 31.740
+\i (00:28:08) trapsize 172
+\i (00:28:08) zoom in 1 
+\i (00:28:08) setwindow pcb
+\i (00:28:08) zoom in 34.226 31.740
+\i (00:28:08) trapsize 86
+\i (00:28:08) zoom out 1 
+\i (00:28:08) setwindow pcb
+\i (00:28:08) zoom out 34.226 31.723
+\i (00:28:08) trapsize 172
+\i (00:28:08) zoom out 1 
+\i (00:28:08) setwindow pcb
+\i (00:28:08) zoom out 34.226 31.723
+\i (00:28:08) trapsize 343
+\i (00:28:08) zoom out 1 
+\i (00:28:09) setwindow pcb
+\i (00:28:09) zoom out 33.882 31.655
+\i (00:28:09) trapsize 686
+\i (00:28:09) zoom in 1 
+\i (00:28:09) setwindow pcb
+\i (00:28:09) zoom in 50.616 39.341
+\i (00:28:09) trapsize 343
+\i (00:28:11) prepopup 51.989 37.351
+\i (00:28:14) pop shape copy 
+\t (00:28:14) last pick:  35.087 25.000
+\i (00:28:21) prepopup 35.311 24.448
+\i (00:28:23) cancel 
+\i (00:28:23) generaledit 
+\i (00:28:25) done 
+\i (00:28:25) generaledit 
+\i (00:28:27) pick grid 78.825 27.879
+\t (00:28:27) last pick:  78.740 27.940
+\i (00:28:27) zoom out 1 
+\i (00:28:27) setwindow pcb
+\i (00:28:27) zoom out 82.256 27.056
+\i (00:28:27) trapsize 686
+\i (00:28:27) zoom out 1 
+\i (00:28:27) setwindow pcb
+\i (00:28:27) zoom out 114.171 26.232
+\i (00:28:27) trapsize 1373
+\t (00:28:28) last pick:  266.784 88.627
+\w (00:28:28) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:28:28) drag_start grid 116.353 62.000
+\i (00:28:29) drag_stop 185.804 -6.353
+\i (00:28:29) drag_start grid 96.588 -7.726
+\i (00:28:30) drag_stop -37.647 82.314
+\i (00:28:31) zoom out 1 
+\i (00:28:31) setwindow pcb
+\i (00:28:31) zoom out -11.020 52.941
+\i (00:28:31) trapsize 1373
+\i (00:28:31) zoom out 1 
+\i (00:28:31) setwindow pcb
+\i (00:28:31) zoom out -10.745 52.941
+\i (00:28:31) trapsize 1373
+\i (00:28:31) zoom in 1 
+\i (00:28:31) setwindow pcb
+\i (00:28:31) zoom in -9.922 52.667
+\i (00:28:31) trapsize 686
+\i (00:28:31) zoom in 1 
+\i (00:28:31) setwindow pcb
+\i (00:28:31) zoom in -9.922 52.667
+\i (00:28:31) trapsize 343
+\i (00:28:31) zoom in 1 
+\i (00:28:31) setwindow pcb
+\i (00:28:31) zoom in -9.921 52.668
+\i (00:28:31) trapsize 172
+\i (00:28:32) zoom in 1 
+\i (00:28:32) setwindow pcb
+\i (00:28:32) zoom in -9.921 52.668
+\i (00:28:32) trapsize 86
+\i (00:28:32) zoom out 1 
+\i (00:28:32) setwindow pcb
+\i (00:28:32) zoom out -9.612 52.772
+\i (00:28:32) trapsize 172
+\i (00:28:32) zoom out 1 
+\i (00:28:32) setwindow pcb
+\i (00:28:32) zoom out -9.201 52.771
+\i (00:28:32) trapsize 343
+\i (00:28:32) zoom out 1 
+\i (00:28:32) setwindow pcb
+\i (00:28:32) zoom out -8.926 52.772
+\i (00:28:32) trapsize 686
+\i (00:28:32) zoom in 1 
+\i (00:28:32) setwindow pcb
+\i (00:28:32) zoom in -9.338 48.242
+\i (00:28:32) trapsize 343
+\i (00:28:35) undo 
+\t (00:28:35) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\t (00:28:35) Grids are drawn 0.254, 0.254 apart for enhanced viewability.
+\i (00:28:35) trapsize 279
+\i (00:28:35) generaledit 
+\i (00:28:37) undo 
+\t (00:28:37) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:28:38) trapsize 731
+\i (00:28:38) generaledit 
+\i (00:28:38) undo 
+\i (00:28:38) trapsize 731
+\i (00:28:38) generaledit 
+\i (00:28:42) redo 
+\i (00:28:42) trapsize 731
+\i (00:28:42) replay C:/Users/user/AppData/Local/Temp/#Taaaaae02040.tmp 
+\i (00:28:42) scriptmode +i 
+\i (00:28:42) delete 
+\i (00:28:43) pick grid 10.200 32.187 
+\t (00:28:43) last pick:  10.160 32.131
+\t (00:28:43) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:28:43) pick grid 10.401 32.187 
+\t (00:28:43) last pick:  10.414 32.131
+\i (00:28:43) setwindow pcb 
+\i (00:28:43) zoom in 55.752 19.345 
+\i (00:28:43) zoom in 60.895 10.342
+\t (00:28:43) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:28:43) trapsize 365
+\i (00:28:43) trapsize 502 
+\i (00:28:43) setwindow pcb 
+\i (00:28:43) zoom out 66.287 20.148 
+\i (00:28:43) zoom out 60.895 10.342
+\t (00:28:43) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:28:43) trapsize 731
+\i (00:28:43) trapsize 1003 
+\i (00:28:43) done 
+\i (00:28:43) trapsize 731
+\i (00:28:43) generaledit 
+\i (00:28:43) redo 
+\i (00:28:43) trapsize 731
+\i (00:28:43) replay C:/Users/user/AppData/Local/Temp/#Taaaaaf02040.tmp 
+\i (00:28:43) scriptmode +i 
+\i (00:28:43) zcopy shape 
+\t (00:28:43) Select cline, cline segment, shape, rectangle or closed polygon.
+\i (00:28:43) trapsize 1002 
+\i (00:28:43) trapsize 1201 
+\i (00:28:43) trapsize 1267 
+\i (00:28:43) trapsize 1265 
+\i (00:28:44) trapsize 1264 
+\i (00:28:44) trapsize 1267 
+\i (00:28:44) trapsize 1306 
+\i (00:28:44) trapsize 1365 
+\i (00:28:44) trapsize 1397 
+\i (00:28:44) trapsize 1403 
+\i (00:28:44) trapsize 1458 
+\i (00:28:44) trapsize 1538 
+\i (00:28:44) trapsize 1535 
+\i (00:28:44) trapsize 1542 
+\i (00:28:44) trapsize 1563 
+\i (00:28:44) trapsize 1554 
+\i (00:28:44) trapsize 1551 
+\i (00:28:44) trapsize 1549 
+\i (00:28:44) trapsize 1535 
+\i (00:28:44) trapsize 1533 
+\i (00:28:44) setwindow form.mini 
+\i (00:28:44) FORM mini dynamic_shape YES 
+\i (00:28:44) FORM mini offset 0.001 
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom in 58.543 25.475 
+\i (00:28:44) zoom in 60.895 9.539
+\t (00:28:44) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:28:44) trapsize 365
+\i (00:28:44) trapsize 767 
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom in 58.543 25.475 
+\i (00:28:44) zoom in 60.895 9.539
+\t (00:28:44) Grids are drawn 0.254, 0.254 apart for enhanced viewability.
+\i (00:28:44) trapsize 183
+\i (00:28:44) trapsize 383 
+\i (00:28:44) pick 56.857 24.786 
+\t (00:28:44) last pick:  56.857 24.786
+\t (00:28:44) No Element Found.
+\i (00:28:44) done 
+\i (00:28:44) trapsize 183
+\i (00:28:44) redo 
+\i (00:28:44) trapsize 279
+\i (00:28:44) replay C:/Users/user/AppData/Local/Temp/#Taaaaag02040.tmp 
+\i (00:28:44) scriptmode +i 
+\i (00:28:44) shape select 
+\i (00:28:44) setwindow form.mini 
+\i (00:28:44) FORM mini dyns_netname_list 
+\i (00:28:44) fillin Gnd 
+\t (00:28:44) Assigning selected shape to net: GND
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) pick grid 56.397 21.106 
+\t (00:28:44) last pick:  56.388 21.082
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom out 54.480 25.169 
+\i (00:28:44) zoom out 57.442 28.859
+\t (00:28:44) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:28:44) trapsize 558
+\i (00:28:44) trapsize 767 
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom out 53.714 24.862 
+\i (00:28:44) zoom out 57.442 28.858
+\t (00:28:44) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:28:44) trapsize 1116
+\i (00:28:44) trapsize 1533 
+\i (00:28:44) pick grid 3.735 43.260 
+\t (00:28:44) last pick:  3.683 43.307
+\t (00:28:44) Grids are drawn 1.270, 1.270 apart for enhanced viewability.
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom in 6.801 35.901 
+\i (00:28:44) zoom in 119.448 35.282
+\i (00:28:44) trapsize 558
+\i (00:28:44) trapsize 767 
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom in 6.648 35.901 
+\i (00:28:44) zoom in 119.448 35.282
+\i (00:28:44) trapsize 279
+\i (00:28:44) trapsize 383 
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom out 7.108 37.511 
+\i (00:28:44) zoom out 119.448 35.283
+\i (00:28:44) trapsize 558
+\i (00:28:44) trapsize 767 
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom in 8.641 33.525 
+\i (00:28:44) zoom in 119.448 35.282
+\i (00:28:44) trapsize 279
+\i (00:28:44) trapsize 383 
+\i (00:28:44) pick grid 9.025 33.142 
+\t (00:28:44) last pick:  8.890 33.020
+\w (00:28:44) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:28:44) drag_start grid 7.798 39.197 
+\i (00:28:44) drag_stop grid 11.708 30.995 
+\i (00:28:44) drag_start grid 4.042 45.637 
+\i (00:28:44) drag_stop grid 33.248 16.814 
+\i (00:28:44) pick grid 2.662 33.065 
+\t (00:28:44) last pick:  2.540 33.020
+\w (00:28:44) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:28:44) pick grid 2.892 30.612 
+\t (00:28:44) last pick:  3.175 30.480
+\t (00:28:44) last pick:  3.000 30.612
+\i (00:28:44) setwindow form.mini 
+\i (00:28:44) FORM mini subcolor 0 
+\i (00:28:44) FORM mini subcolor 1 
+\i (00:28:44) FORM mini class PACKAGE KEEPOUT 
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) pick grid 3.276 36.898 
+\t (00:28:44) last pick:  3.175 36.830
+\t (00:28:44) No DRC errors detected.
+\i (00:28:44) pick grid 3.276 36.898 
+\t (00:28:44) last pick:  3.175 36.830
+\i (00:28:44) pick grid 2.586 36.744 
+\t (00:28:44) last pick:  2.540 36.830
+\t (00:28:44) No DRC errors detected.
+\i (00:28:44) drag_start grid 2.816 36.744 
+\i (00:28:44) drag_stop grid 5.959 36.744 
+\t (00:28:44) No DRC errors detected.
+\i (00:28:44) drag_start grid 5.959 36.744 
+\t (00:28:44) last pick:  5.715 36.830
+\i (00:28:44) drag_stop grid 5.345 34.981 
+\t (00:28:44) No DRC errors detected.
+\i (00:28:44) drag_start grid 5.192 34.981 
+\t (00:28:44) last pick:  5.080 34.925
+\i (00:28:44) drag_stop grid 3.199 35.365 
+\t (00:28:44) No DRC errors detected.
+\i (00:28:44) pick grid 7.415 35.518 
+\t (00:28:44) last pick:  7.620 35.560
+\w (00:28:44) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:28:44) setwindow pcb 
+\i (00:28:44) zoom out 10.788 36.438 
+\i (00:28:44) zoom out 119.448 35.283
+\i (00:28:44) trapsize 558
+\i (00:28:45) trapsize 767 
+\i (00:28:45) trapsize 343 
+\i (00:28:45) setwindow pcb 
+\i (00:28:45) zoom in 34.226 31.740 
+\i (00:28:45) zoom in 119.448 35.282
+\i (00:28:45) trapsize 279
+\i (00:28:45) trapsize 172 
+\i (00:28:45) setwindow pcb 
+\i (00:28:45) zoom in 34.226 31.740 
+\i (00:28:45) zoom in 119.448 35.283
+\i (00:28:45) trapsize 140
+\i (00:28:45) trapsize 86 
+\i (00:28:45) setwindow pcb 
+\i (00:28:45) zoom out 34.226 31.723 
+\i (00:28:45) zoom out 119.448 35.283
+\i (00:28:45) trapsize 279
+\i (00:28:45) trapsize 172 
+\i (00:28:45) setwindow pcb 
+\i (00:28:45) zoom out 34.226 31.723 
+\i (00:28:45) zoom out 119.448 35.284
+\i (00:28:45) trapsize 558
+\i (00:28:45) trapsize 343 
+\i (00:28:45) setwindow pcb 
+\i (00:28:45) zoom out 33.882 31.655 
+\i (00:28:45) zoom out 119.448 35.283
+\i (00:28:45) trapsize 1116
+\i (00:28:45) trapsize 686 
+\i (00:28:45) setwindow pcb 
+\i (00:28:45) zoom in 50.616 39.341 
+\i (00:28:45) zoom in 119.448 35.283
+\i (00:28:45) trapsize 558
+\i (00:28:45) trapsize 343 
+\i (00:28:45) prepopup 51.989 37.351 
+\i (00:28:45) prepopup 51.989 37.351
+\i (00:28:45) pop shape copy 
+\t (00:28:45) last pick:  35.000 25.000
+\i (00:28:45) prepopup 35.311 24.448 
+\i (00:28:45) prepopup 35.311 24.448
+\i (00:28:45) cancel 
+\i (00:28:45) trapsize 558
+\i (00:28:45) generaledit 
+\i (00:28:45) zoom out 1 
+\i (00:28:45) setwindow pcb
+\i (00:28:45) zoom out 55.486 59.953
+\i (00:28:45) trapsize 1116
+\i (00:28:45) zoom out 1 
+\i (00:28:45) setwindow pcb
+\i (00:28:45) zoom out -10.484 78.816
+\i (00:28:45) trapsize 1373
+\i (00:28:46) zoom in 1 
+\i (00:28:46) setwindow pcb
+\i (00:28:46) zoom in -21.726 -6.902
+\i (00:28:46) trapsize 686
+\i (00:28:48) undo 
+\t (00:28:48) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\t (00:28:48) Grids are drawn 0.254, 0.254 apart for enhanced viewability.
+\i (00:28:48) trapsize 279
+\i (00:28:48) generaledit 
+\i (00:28:49) zoom out 1 
+\i (00:28:49) setwindow pcb
+\i (00:28:49) zoom out 29.536 39.630
+\t (00:28:49) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:28:49) trapsize 558
+\i (00:28:49) zoom out 1 
+\i (00:28:49) setwindow pcb
+\i (00:28:49) zoom out 29.647 39.408
+\t (00:28:49) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:28:49) trapsize 1116
+\i (00:28:49) pick grid 135.969 49.794
+\t (00:28:49) last pick:  136.017 49.784
+\i (00:28:50) drag_start grid -10.038 59.840
+\i (00:28:50) drag_stop 110.072 -43.972
+\i (00:28:51) pick grid 73.682 10.055
+\t (00:28:51) last pick:  73.660 10.033
+\i (00:28:51) zoom in 1 
+\i (00:28:51) setwindow pcb
+\i (00:28:51) zoom in 69.440 -5.126
+\t (00:28:51) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:28:51) trapsize 558
+\e (00:29:00) Command not found: cccccccccccccccccccccccccccccccccccccccccc
+\e (00:29:02) Command not found: cc
+\i (00:29:03) done 
+\i (00:29:03) generaledit 
+\e (00:29:06) Command not found: c
+\i (00:29:09) setwindow form.mini
+\i (00:29:09) FORM mini subclass TOP 
+\i (00:29:13) setwindow pcb
+\i (00:29:13) zoom out 1 
+\i (00:29:13) setwindow pcb
+\i (00:29:13) zoom out 50.798 28.138
+\t (00:29:13) Grids are drawn 1.016, 1.016 apart for enhanced viewability.
+\i (00:29:13) trapsize 1116
+\i (00:29:14) zoom in 1 
+\i (00:29:14) setwindow pcb
+\i (00:29:14) zoom in 0.008 11.841
+\t (00:29:14) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:29:14) trapsize 558
+\i (00:29:14) zoom in 1 
+\i (00:29:14) setwindow pcb
+\i (00:29:14) zoom in 0.120 11.507
+\t (00:29:14) Grids are drawn 0.254, 0.254 apart for enhanced viewability.
+\i (00:29:14) trapsize 279
+\i (00:29:16) roam x -96 
+\i (00:29:16) roam x -96
+\i (00:29:16) roam y -96 
+\i (00:29:16) roam y -96
+\i (00:29:16) roam x 96 
+\i (00:29:16) roam x 96
+\i (00:29:17) roam x 96 
+\i (00:29:17) roam x 96
+\i (00:29:17) zoom in 1 
+\i (00:29:17) setwindow pcb
+\i (00:29:17) zoom in 12.175 19.208
+\i (00:29:17) trapsize 140
+\i (00:29:18) zoom in 1 
+\i (00:29:18) setwindow pcb
+\i (00:29:18) zoom in 12.204 19.208
+\i (00:29:18) trapsize 70
+\i (00:29:18) roam x 96 
+\i (00:29:18) roam x 96
+\i (00:29:20) zoom out 1 
+\i (00:29:20) setwindow pcb
+\i (00:29:20) zoom out 15.845 19.376
+\i (00:29:20) trapsize 140
+\i (00:29:20) zoom out 1 
+\i (00:29:20) setwindow pcb
+\i (00:29:20) zoom out 15.929 19.431
+\i (00:29:20) trapsize 279
+\i (00:29:20) zoom out 1 
+\i (00:29:20) setwindow pcb
+\i (00:29:20) zoom out 15.929 19.375
+\t (00:29:20) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:29:20) trapsize 558
+\i (00:29:21) zoom in 1 
+\i (00:29:21) setwindow pcb
+\i (00:29:21) zoom in 14.701 19.153
+\t (00:29:21) Grids are drawn 0.254, 0.254 apart for enhanced viewability.
+\i (00:29:21) trapsize 279
+\i (00:29:21) zoom out 1 
+\i (00:29:21) setwindow pcb
+\i (00:29:21) zoom out 18.105 21.497
+\t (00:29:21) Grids are drawn 0.508, 0.508 apart for enhanced viewability.
+\i (00:29:22) trapsize 558
+\i (00:29:24) grid toggle 
+\i (00:29:24) generaledit 
+\i (00:29:35) zcopy shape 
+\t (00:29:35) Select cline, cline segment, shape, rectangle or closed polygon.
+\i (00:29:40) setwindow form.mini
+\i (00:29:40) FORM mini expand YES 
+\i (00:29:41) FORM mini contract YES 
+\i (00:29:45) FORM mini subclass_name BOTTOM 
+\i (00:29:47) setwindow pcb
+\i (00:29:47) drag_start 65.435 45.497
+\i (00:29:50) drag_stop 2.813 3.079
+\t (00:29:50) Clines cannot be copied to BOUNDARY/BOTTOM
+   (00:29:50) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:29:50) Clines cannot be copied to BOUNDARY/BOTTOM
+   (00:29:50) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:29:50) Clines cannot be copied to BOUNDARY/BOTTOM
+   (00:29:50) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:29:50) Clines cannot be copied to BOUNDARY/BOTTOM
+   (00:29:50) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:29:50) Clines cannot be copied to BOUNDARY/BOTTOM
+   (00:29:50) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:29:50) Clines cannot be copied to BOUNDARY/BOTTOM
+   (00:29:50) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\i (00:30:40) pick 107.518 30.650
+\t (00:30:40) last pick:  107.518 30.650
+\t (00:30:40) No Element Found.
+\i (00:30:40) pick 54.942 23.283
+\t (00:30:40) last pick:  54.942 23.283
+\i (00:30:43) setwindow form.mini
+\i (00:30:43) FORM mini subclass_name TOP 
+\i (00:30:45) setwindow pcb
+\i (00:30:45) drag_start 66.663 46.948
+\i (00:30:47) drag_stop 2.813 2.967
+\t (00:30:47) Clines cannot be copied to BOUNDARY/TOP
+   (00:30:47) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:30:47) Clines cannot be copied to BOUNDARY/TOP
+   (00:30:47) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:30:47) Clines cannot be copied to BOUNDARY/TOP
+   (00:30:47) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:30:47) Clines cannot be copied to BOUNDARY/TOP
+   (00:30:47) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:30:47) Clines cannot be copied to BOUNDARY/TOP
+   (00:30:47) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:30:47) Clines cannot be copied to BOUNDARY/TOP
+   (00:30:47) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\i (00:30:48) pick 54.049 24.957
+\t (00:30:48) last pick:  54.049 24.957
+\i (00:30:59) shape merge shapes 
+\t (00:30:59) Pick primary shape to merge to
+\i (00:31:03) setwindow form.mini
+\i (00:31:03) FORM mini class BOARD GEOMETRY 
+\i (00:31:13) FORM mini dyns_fill_type Dynamic copper 
+\t (00:31:13) Filled shape not allowed on current subclass.
+\i (00:45:18) setwindow pcb
+\i (00:45:18) pick grid -24.312 53.980
+\t (00:45:18) last pick:  -24.130 53.975
+\i (00:45:20) pick grid 109.081 34.781
+\t (00:45:20) last pick:  109.220 34.925
+\i (00:45:20) pick grid 51.147 28.418
+\t (00:45:20) last pick:  51.435 28.575
+\t (00:45:20) Pick shapes to be merged
+\i (00:45:21) pick grid 57.845 29.088
+\t (00:45:21) last pick:  57.785 29.210
+\e (00:45:21) Shapes must be on same layer, not merged.
+\i (00:45:21) pick grid dbl 57.845 29.088
+\t (00:45:21) last pick:  57.785 29.210
+\e (00:45:21) Shapes must be on same layer, not merged.
+\i (00:45:23) delete 
+\i (00:45:23) pick grid 57.733 22.613
+\t (00:45:23) last pick:  57.785 22.860
+\t (00:45:23) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:25) delete 
+\i (00:45:25) pick grid 11.966 34.781
+\t (00:45:25) last pick:  12.065 34.925
+\t (00:45:25) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:26) delete 
+\i (00:45:27) pick grid 8.952 34.446
+\t (00:45:27) last pick:  8.890 34.290
+\t (00:45:27) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:27) pick grid dbl 8.952 34.446
+\t (00:45:27) last pick:  8.890 34.290
+\t (00:45:27) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:27) pick grid 9.064 34.446
+\t (00:45:27) last pick:  8.890 34.290
+\t (00:45:27) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:27) pick grid dbl 9.064 34.446
+\t (00:45:27) last pick:  8.890 34.290
+\t (00:45:27) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:28) pick grid 9.064 34.446
+\t (00:45:28) last pick:  8.890 34.290
+\t (00:45:28) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:45:28) pick grid dbl 9.064 34.446
+\t (00:45:28) last pick:  8.890 34.290
+\t (00:45:28) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:45:28) pick grid 9.064 34.446
+\t (00:45:28) last pick:  8.890 34.290
+\t (00:45:28) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:45:28) pick grid dbl 9.064 34.446
+\t (00:45:28) last pick:  8.890 34.290
+\i (00:45:28) pick grid 9.064 34.446
+\t (00:45:28) last pick:  8.890 34.290
+\i (00:45:32) pick grid 21.231 37.571
+\t (00:45:32) last pick:  20.955 37.465
+\t (00:45:32) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:33) pick grid 41.547 33.888
+\t (00:45:33) last pick:  41.275 33.655
+\t (00:45:33) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:33) pick grid dbl 41.547 33.888
+\t (00:45:33) last pick:  41.275 33.655
+\t (00:45:33) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:33) pick grid 41.547 33.888
+\t (00:45:33) last pick:  41.275 33.655
+\t (00:45:33) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:34) pick grid 41.770 33.888
+\t (00:45:34) last pick:  41.910 33.655
+\t (00:45:34) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:34) pick grid dbl 41.770 33.888
+\t (00:45:34) last pick:  41.910 33.655
+\t (00:45:34) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:34) pick grid 41.770 34.111
+\t (00:45:34) last pick:  41.910 34.290
+\t (00:45:34) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:45:35) pick grid dbl 41.770 34.111
+\t (00:45:35) last pick:  41.910 34.290
+\t (00:45:35) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:45:35) pick grid 40.989 34.334
+\t (00:45:35) last pick:  41.275 34.290
+\i (00:45:39) pick grid 21.455 36.901
+\t (00:45:39) last pick:  21.590 36.830
+\t (00:45:39) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:39) pick grid dbl 21.455 36.901
+\t (00:45:39) last pick:  21.590 36.830
+\t (00:45:39) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:39) pick grid 21.455 36.901
+\t (00:45:39) last pick:  21.590 36.830
+\t (00:45:39) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:39) pick grid dbl 21.455 36.901
+\t (00:45:39) last pick:  21.590 36.830
+\t (00:45:39) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:40) pick grid 21.455 36.901
+\t (00:45:40) last pick:  21.590 36.830
+\t (00:45:40) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:45:40) pick grid dbl 21.455 36.901
+\t (00:45:40) last pick:  21.590 36.830
+\t (00:45:40) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:45:40) pick grid 21.455 36.901
+\t (00:45:40) last pick:  21.590 36.830
+\t (00:45:40) Symbol "C1"
+\i (00:45:41) pick grid 17.436 14.353
+\t (00:45:41) last pick:  17.145 14.605
+\t (00:45:41) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:41) pick grid dbl 17.436 14.353
+\t (00:45:41) last pick:  17.145 14.605
+\t (00:45:41) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:42) pick grid 17.436 14.353
+\t (00:45:42) last pick:  17.145 14.605
+\t (00:45:42) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:42) pick grid 17.436 14.353
+\t (00:45:42) last pick:  17.145 14.605
+\t (00:45:42) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:42) pick grid dbl 17.436 14.353
+\t (00:45:42) last pick:  17.145 14.605
+\t (00:45:42) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:45:43) undo 
+\i (00:45:43) trapsize 558
+\i (00:45:43) generaledit 
+\i (00:45:43) undo 
+\i (00:45:43) trapsize 558
+\i (00:45:44) generaledit 
+\i (00:45:44) undo 
+\i (00:45:44) trapsize 558
+\i (00:45:44) generaledit 
+\i (00:45:46) pick grid 16.766 30.762
+\t (00:45:46) last pick:  16.510 30.480
+\i (00:45:47) pick grid dbl 16.766 30.762
+\t (00:45:47) last pick:  16.510 30.480
+\i (00:45:47) pick grid 16.766 30.762
+\t (00:45:47) last pick:  16.510 30.480
+\i (00:45:47) pick grid dbl 16.766 30.762
+\t (00:45:47) last pick:  16.510 30.480
+\i (00:47:04) pick grid -15.159 48.845
+\t (00:47:04) last pick:  -15.240 48.895
+\i (00:47:06) pick grid 21.120 40.473
+\t (00:47:06) last pick:  20.955 40.640
+\i (00:47:07) pick grid 23.910 45.162
+\t (00:47:07) last pick:  24.130 45.085
+\i (00:47:09) delete 
+\i (00:47:10) pick grid 17.771 43.487
+\t (00:47:10) last pick:  17.780 43.180
+\t (00:47:10) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:47:10) pick grid dbl 17.771 43.487
+\t (00:47:10) last pick:  17.780 43.180
+\t (00:47:10) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:47:11) pick grid 17.771 43.487
+\t (00:47:11) last pick:  17.780 43.180
+\t (00:47:11) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:47:11) pick grid dbl 17.771 43.487
+\t (00:47:11) last pick:  17.780 43.180
+\t (00:47:11) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:47:11) pick grid 17.882 43.376
+\t (00:47:11) last pick:  17.780 43.180
+\t (00:47:11) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:47:12) pick grid dbl 17.882 43.376
+\t (00:47:12) last pick:  17.780 43.180
+\t (00:47:12) Dynamic Shape "Dummy Net, Boundary/Top"
+\i (00:47:12) pick grid 17.882 43.264
+\t (00:47:12) last pick:  17.780 43.180
+\t (00:47:12) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:47:12) pick grid dbl 17.882 43.264
+\t (00:47:12) last pick:  17.780 43.180
+\t (00:47:12) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:47:13) pick grid 17.882 43.264
+\t (00:47:13) last pick:  17.780 43.180
+\t (00:47:13) Dynamic Shape "Dummy Net, Boundary/Bottom"
+\i (00:47:13) pick grid dbl 17.882 43.264
+\t (00:47:13) last pick:  17.780 43.180
+\i (00:47:28) zcopy shape 
+\t (00:47:28) Select cline, cline segment, shape, rectangle or closed polygon.
+\i (00:48:08) pick -15.382 37.125
+\t (00:48:08) last pick:  -15.382 37.125
+\t (00:48:08) No Element Found.
+\i (00:55:07) drag_start 3.706 45.943
+\i (00:55:09) drag_stop 66.328 3.860
+\t (00:55:09) Clines cannot be copied to BOUNDARY/TOP
+   (00:55:09) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:55:09) Clines cannot be copied to BOUNDARY/TOP
+   (00:55:09) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:55:09) Clines cannot be copied to BOUNDARY/TOP
+   (00:55:09) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:55:09) Clines cannot be copied to BOUNDARY/TOP
+   (00:55:09) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:55:09) Clines cannot be copied to BOUNDARY/TOP
+   (00:55:09) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\t (00:55:09) Clines cannot be copied to BOUNDARY/TOP
+   (00:55:09) *WARNING* (axlCopyProperties): Invalid database id argument - nil
+\i (00:55:20) shape select 
+\i (00:55:37) setwindow form.mini
+\i (00:55:37) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (01:29:47) setwindow pcb
+\i (01:29:47) zoom out 1 
+\i (01:29:47) setwindow pcb
+\i (01:29:47) zoom out 39.761 22.948
+\i (01:29:47) trapsize 1116
+\i (01:29:47) zoom out 1 
+\i (01:29:47) setwindow pcb
+\i (01:29:47) zoom out 119.448 35.282
+\i (01:29:47) trapsize 1373
+\i (01:29:48) zoom out 1 
+\i (01:29:48) setwindow pcb
+\i (01:29:48) zoom out 158.353 54.863
+\i (01:29:48) trapsize 1373
+\i (01:29:48) zoom in 1 
+\i (01:29:48) setwindow pcb
+\i (01:29:48) zoom in 158.353 54.863
+\i (01:29:48) trapsize 686
+\i (01:29:49) zoom in 1 
+\i (01:29:49) setwindow pcb
+\i (01:29:49) zoom in 137.608 25.491
+\i (01:29:49) trapsize 343
+\i (01:29:49) zoom out 1 
+\i (01:29:49) setwindow pcb
+\i (01:29:49) zoom out 138.157 25.354
+\i (01:29:49) trapsize 686
+\i (01:29:49) zoom out 1 
+\i (01:29:49) setwindow pcb
+\i (01:29:49) zoom out 138.294 25.217
+\i (01:29:49) trapsize 1373
+\i (01:29:49) zoom out 1 
+\i (01:29:49) setwindow pcb
+\i (01:29:49) zoom out 151.215 -4.980
+\i (01:29:49) trapsize 1373
+\i (01:29:50) zoom out 1 
+\i (01:29:50) setwindow pcb
+\i (01:29:50) zoom out 153.412 -6.902
+\i (01:29:50) trapsize 1373
+\i (01:29:59) zoom out 1 
+\i (01:29:59) setwindow pcb
+\i (01:29:59) zoom out 315.647 -44.784
+\i (01:29:59) trapsize 1373
+\i (01:29:59) zoom out 1 
+\i (01:29:59) setwindow pcb
+\i (01:29:59) zoom out 315.647 -45.608
+\i (01:29:59) trapsize 1373
+\i (01:29:59) zoom out 1 
+\i (01:29:59) setwindow pcb
+\i (01:29:59) zoom out 315.647 -46.431
+\i (01:29:59) trapsize 1373
+\i (01:39:16) pick grid 161.647 45.804
+\t (01:39:16) last pick:  161.925 45.720
+\i (01:39:18) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (01:39:18) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ex2_rlc
+\i (01:39:31) done 
+\i (01:39:31) place manual 
+\i (01:39:31) FORM plc_manual placement_list 
+\i (01:39:31) FORM plc_manual categories Components by refdes 
+\i (01:39:31) trapsize 1373
+\i (01:39:35) trapsize 2184
+\i (01:42:36) setwindow form.plc_manual
+\i (01:42:36) FORM plc_manual advanced_settings  
+\i (01:42:37) FORM plc_manual library YES 
+\i (01:42:38) FORM plc_manual placement_list  
+\i (01:42:39) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (01:42:39) FORM plc_manual tree  'Components by refdes' 
+\i (01:42:40) FORM plc_manual advanced_settings  
+\i (01:46:14) FORM plc_manual placement_list  
+\i (01:46:15) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (01:46:15) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (01:46:16) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (01:46:17) FORM plc_manual categories Mechanical symbols 
+\i (01:46:34) FORM plc_manual categories Package symbols 
+\i (01:51:16) setwindow pcb
+\i (01:51:16) pick grid 92.385 12.810
+\t (01:51:16) last pick:  92.075 12.700
+\i (01:51:18) zoom in 1 
+\i (01:51:18) setwindow pcb
+\i (01:51:18) zoom in 44.778 16.304
+\i (01:51:18) trapsize 1092
+\i (01:51:18) zoom in 1 
+\i (01:51:18) setwindow pcb
+\i (01:51:18) zoom in 44.778 16.304
+\i (01:51:18) trapsize 546
+\i (01:51:18) zoom out 1 
+\i (01:51:18) setwindow pcb
+\i (01:51:18) zoom out 52.094 16.195
+\i (01:51:18) trapsize 1092
+\i (01:51:20) setwindow form.plc_manual
+\i (01:51:20) FORM plc_manual cancel  
+\i (01:51:21) setwindow pcb
+\i (01:51:21) generaledit 
+\i (02:07:41) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (02:07:43) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ex2_rlc
+\i (02:07:45) add connect 
+\t (02:07:45) Pick first element.
+\i (02:15:27) done 
+\i (02:15:27) place manual 
+\i (02:15:27) FORM plc_manual placement_list 
+\i (02:15:27) FORM plc_manual categories Components by refdes 
+\i (02:15:27) setwindow form.plc_manual
+\i (02:15:27) FORM plc_manual categories Components by refdes 
+\i (02:15:27) setwindow pcb
+\i (02:15:27) trapsize 1092
+\i (02:15:30) setwindow form.plc_manual
+\i (02:15:30) FORM plc_manual categories Package symbols 
+\i (02:15:37) FORM plc_manual tree 'MULTISEL YES' 'Package symbols' 
+\i (02:15:37) FORM plc_manual tree  'Package symbols' 
+\i (02:28:16) FORM plc_manual cancel  
+\i (02:28:16) setwindow pcb
+\i (02:28:16) generaledit 
+\i (02:28:17) pick grid 69.784 79.308
+\t (02:28:17) last pick:  69.850 79.375
+\i (02:28:20) shape add rect 
+\i (02:28:46) setwindow form.mini
+\i (02:28:46) FORM mini subclass BODY_CENTER 
+\i (02:28:52) FORM mini class PACKAGE KEEPIN 
+\i (02:28:55) FORM mini class PACKAGE KEEPOUT 
+\i (02:28:57) FORM mini class PACKAGE GEOMETRY 
+\i (02:29:02) FORM mini class REF DES 
+\i (02:29:21) setwindow pcb
+\i (02:29:21) pick grid 70.439 80.837
+\t (02:29:21) last pick:  70.485 80.645
+\i (02:29:22) Esc 
+\i (02:29:22) generaledit 
+\i (02:29:23) drag_start grid -0.317 53.539
+\i (02:29:24) drag_stop 85.507 -13.723
+\i (02:29:24) pick grid 93.150 -0.401
+\t (02:29:24) last pick:  93.345 -0.635
+\i (02:29:26) done 
+\i (02:29:26) generaledit 
+\i (02:29:30) shape add rect 
+\i (02:29:41) setwindow form.mini
+\i (02:29:41) FORM mini class BOARD GEOMETRY 
+\i (02:30:46) FORM mini class ETCH 
+\i (02:30:54) FORM mini dyns_netname_list  
+\i (02:30:56) fillin "Gnd"
+\t (02:30:56) Assigning selected shape to net: GND
+\i (02:51:01) setwindow pcb
+\i (02:51:01) pick grid 109.966 52.666
+\t (02:51:01) last pick:  109.982 52.705
+\i (02:51:03) exit 
+\e (02:51:03) Do you want to save the changes you made to ex2_rlc.brd?
+\i (02:51:04) fillin no 
+\t (02:51:04)     Journal end - Thu Jul 11 00:36:46 2019

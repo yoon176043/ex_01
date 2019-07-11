@@ -1,0 +1,19 @@
+  Revised: Wednesday, July 10, 2019
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 10,2019      11:43:32	Page1
+
+Item	Quantity	Reference	Part	kkk	PRICE
+______________________________________________
+
+1	1	C1	1u	CAP196	8
+2	1	J1	CON2	JUMPER2	2
+3	1	L1	100n	SMDRES	380
+4	1	R1	250	RES400	2
+5	1	R2	250	RES400	350

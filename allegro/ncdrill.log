@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : ex2_rlc.brd                                   )
+(    Software Version : 17.2S038                                      )
+(    Date/Time        : Thu Jul 11 11:46:17 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/Users/user/Desktop/work/orcad/ex2_rlc/allegro' ...
+
+
+
+     'ex2_rlc-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.9140    0.0000/  0.0000      PLATED          4
+            2.   1.0670    0.0000/  0.0000      PLATED          4
+            3.   3.1750    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                         12
+
+     ---- Total head travel:              0.80 feet (0.24 meters)
+

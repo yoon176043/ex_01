@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : ex2_rlc.brd                                   )
+(    Software Version : 17.2S038                                      )
+(    Date/Time        : Thu Jul 11 08:55:40 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 5
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (40.363 30.153)  Net: Dummy Net
+	Point on shape: (39.370 19.050)  Net: Dummy Net
+	Point on shape: (26.959 22.368)  Net: Dummy Net
+	Point on shape: (25.400 36.830)  Net: Dummy Net
+	Point on shape: (16.510 11.684)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.
